@@ -1,0 +1,3 @@
+<?php
+
+$nom = "Augustin";
